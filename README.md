@@ -158,6 +158,3 @@ Current Mileage (km): 0
 - Diploma in IT: Software Development (76% average, 16 distinctions)
 - Contact: botlhaleradikeledi@gmail.com
 
-## 📄 License
-
-This project is created for educational and job application purposes.
